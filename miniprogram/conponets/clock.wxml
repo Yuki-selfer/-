@@ -1,0 +1,3 @@
+<view><button bindtap="showctx">显示时间</button><canvas canvas-id="clock" class="mycanvas"></canvas>
+
+</view>
